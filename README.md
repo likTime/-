@@ -28,7 +28,7 @@
 
 #### 系统要求
 
-·Python 3.7+
+·Python 3.7+/普通用户（无需Python编译器，下载exe.版本）
 
 ·Windows 10/11 (推荐) 或 Linux/macOS
 
@@ -128,6 +128,12 @@
 
 （详细更新内容请点击程序内的"更新日志"按钮查看。）
 
+##下载
+
+•如需查看或修改源码，可下载 `.py` 源码版本
+
+•普通用户请直接下载 `.exe` 版本（无需安装 Python 环境）
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。对于新视频平台的支持或功能建议尤其欢迎。
@@ -174,7 +180,7 @@ Video Sniffer Downloader is a powerful video downloading tool that can automatic
 ## Installation Instructions
 
 #### System Requirements
-• Python 3.7+
+• Python 3.7/ For regular users (No Python compiler required, download the .exe version)
 • Windows 10/11 (Recommended) or Linux/macOS
 
 #### Dependency Installation
@@ -287,6 +293,12 @@ Video Sniffer Downloader is a powerful video downloading tool that can automatic
 • **v1.0.5 (2025-12-25)**: GUI version; added clipboard monitoring and website scanning
 
 • **v1.0.0 (2025-12-01)**: Initial release with basic video downloading
+
+##Download
+
+•For source code viewing or modification, download the `.py` source version
+
+•For regular users, please download the `.exe` version directly (no Python environment required)
 
 ## Disclaimer
 
