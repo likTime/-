@@ -1,4 +1,4 @@
-# 嗅觉视频下载器 (Video Sniffer Downloader)
+# 视频嗅探下载器 (Video Sniffer Downloader)
 
 *Note: English version is available below. / 注意：下方有英文版本*
 
